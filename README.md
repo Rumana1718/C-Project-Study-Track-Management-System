@@ -1,6 +1,8 @@
 # C++Project-Study-Track-Management-System
 STUDY TRACK MANAGEMENT SYSTEM FOR A STUDENT
-Done by- Rumana Islam
+
+
+Done by- Rumana Islam;
 DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING,
 Jahangirnagar University.
 
