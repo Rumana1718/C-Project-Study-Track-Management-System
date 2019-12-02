@@ -2,7 +2,8 @@
 STUDY TRACK MANAGEMENT SYSTEM FOR A STUDENT
 
 
-Done by- Rumana Islam;
+
+Prepared by- Rumana Islam;
 DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING,
 Jahangirnagar University.
 
